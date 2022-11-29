@@ -115,5 +115,6 @@ tag_archive:
   path: /tags/
   
 comments:
+  provider: "discourse"
   discourse:
-    server: "forum.ieri.org"
+    server: "forum.ieni.org"
