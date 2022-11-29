@@ -117,4 +117,4 @@ tag_archive:
 comments:
   provider: "discourse"
   discourse:
-    server: "forum.ieni.org"
+    server: "ieni-forum.infvo.nl"
